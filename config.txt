@@ -1,0 +1,3 @@
+[Config]
+durasi = 0
+treshold = 3000
